@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>StudyMate AI</title>
+    <meta name="description" content="StudyMate AI is your intelligent academic assistant, designed to help you understand, organize and manage your academic work." />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="StudyMate AI" />
+    <meta property="og:description" content="A dependable study companion for a more organized, capable semester." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="StudyMate AI" />
+    <meta name="twitter:description" content="A dependable study companion for a more organized, capable semester." />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script type="module" crossorigin src="/assets/index-yFrrCioS.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-8qmDwjS1.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  <script src="https://replit-cdn.com/replit-pill/replit-pill.global.js" data-referral-code="sxyb2sxqzpvp" data-repl-id="1eb23cc0-b5d6-41fa-9b49-217a95177253"></script></body>
+</html>
